@@ -1,12 +1,22 @@
-# React + Vite
+# 🔐 React Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and simple login page built using **React.js** with **Vite**. This project was developed as part of a placement assessment to demonstrate frontend development skills with form handling and basic validation.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Click here to view the deployed app](https://login-page-59mq6w1wq-shabes-projects.vercel.app)
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Login Page Screenshot](https://via.placeholder.com/800x400?text=Login+Page+Preview)
+
+## 🛠️ Features
+
+- React + Vite for fast development
+- Email and Password input fields
+- Basic form validation
+- Responsive and clean UI
+- Deployable on Netlify, Vercel, GitHub Pages, Firebase
+
+## 📂 Project Structure
+
